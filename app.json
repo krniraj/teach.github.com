@@ -1,12 +1,12 @@
 {
-  "name": “Lauren Is Testing”,
-  "description": "This app does one little thing, and does it well.",
+  "name": "Small Sharp Tool",
+  "description": "A custom one-click-messaging app to annoy your friends.",
   "keywords": [
-    "productivity",
-    "HTML5",
-    "scalpel"
+    "Python",
+    "Flask",
+    "fun"
   ],
-  "website": "https://small-sharp-tool.com/",
+  "website": "https://github.com/laurenorsini/teach.github.com",
   "repository": "https://github.com/laurenorsini/teach.github.com",
-  "logo": "https://small-sharp-tool.com/logo.svg",
+  "logo": "https://small-sharp-tool.com/logo.svg"
 }
